@@ -1,12 +1,9 @@
-.albums .card:hover{
-    outline: 4px solid #ffdb4b;
+.albums .card:hover {
+  outline: 4px solid #ffdb4b;
 }
 
-.albums a{
-    color: black;
+.albums a {
+  color: black;
 }
 
-.list-group-item:hover{
-    outline:4px solid #ffdb4b;
-    z-index: 1;
-}
+
