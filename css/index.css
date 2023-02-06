@@ -6,4 +6,8 @@
   color: black;
 }
 
-
+@media screen and (max-width: 576px) {
+  .cart img{
+    width: 100%;
+  }
+}
